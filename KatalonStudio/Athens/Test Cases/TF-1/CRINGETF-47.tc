@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRINGETF-47</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bb14755-6779-453d-a2da-75bfb3f6b3f6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28b1af3f-fd50-4dde-9c43-f6e485c9038b</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

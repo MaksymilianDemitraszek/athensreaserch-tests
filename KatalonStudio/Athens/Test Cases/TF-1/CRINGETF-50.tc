@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRINGETF-50</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60aaa4f8-4a9c-4de9-b739-41eb27f469ea</testCaseGuid>
+   <variable>
+      <defaultValue>'January 18, 2022'</defaultValue>
+      <description></description>
+      <id>eb944ac8-34c7-44e6-8128-9d3c3d870c17</id>
+      <masked>false</masked>
+      <name>TodaysDateString</name>
+   </variable>
+</TestCaseEntity>
